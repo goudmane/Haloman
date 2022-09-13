@@ -20,7 +20,7 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/goudmane/haloman/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/goudmane/Haloman/blob/main/vsc-extension-quickstart.md)
 
 ## Icon Theme
 
