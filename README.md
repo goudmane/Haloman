@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="Haloman Logo" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Halcyon Theme for VS Code
+  Haloman Theme for VS Code
 </h1>
 <p align="center">
   A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
@@ -24,10 +24,10 @@
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Halcyon`
+2. Search for `Haloman`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Halcyon**
+5. Code > Preferences > Color Theme > **Haloman**
 
 ## Manual Installation
 
@@ -87,4 +87,4 @@ vsce publish patch/minor/major
 
 ## Shameless Plug
 
-Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+Haloman is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
